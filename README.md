@@ -16,6 +16,12 @@ Are you making the PhD at the CREAF and you would say any of the following state
 
 ## How it's worked now (January - 2023)?
 
-If you are reading this messages you are in the main webpage of the CREAFuture repository, there are 
+**Are you looking for usefull information?**
+
+The main CREAFuture repository is divided in three parts:
+
+- Coding Documentation (Coding_Documentation.md): this link will give you access to a full *Markdown* document with usefull information about the basics R-coding.
+- Statistic Documentation (): this link will give you access to a full *Markdown* document with usefull information about the basics Statistics.
+- Courses: This link  
 
 
