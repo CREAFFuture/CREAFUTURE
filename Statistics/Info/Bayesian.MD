@@ -1,2 +1,0 @@
-# Bayesian Statistics
-Welcome to 
