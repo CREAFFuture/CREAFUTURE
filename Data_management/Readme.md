@@ -10,3 +10,4 @@
 - A wealth of [resources.](https://github.com/ecoinfAEET/Reproducibilidad/blob/master/Recursos.md)
 - Keep track of all the parentheses in your code by colouring each pair of brackets in a different color: Tools > Global options > Code > Display > Use rainbow parentheses
 - A comparison across [repositories](https://ddd.uab.cat/record/150829) (Dryad vs Zenodo vs Figshare vs others).
+- Some recommendations on how to name your [files](https://records.princeton.edu/records-management-manual/file-naming-conventions-version-control), specially relevant for [manuscripts.](https://www.lisapoisso.com/2018/11/26/manuscript-file-names/)
