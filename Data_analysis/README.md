@@ -1,4 +1,4 @@
-Analysis of data
+# Analysis of data
 ---
 
 - [Frequently asked questions](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html) on Generalized Linear Mixed Models (GLMM).
