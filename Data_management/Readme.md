@@ -9,3 +9,4 @@
 - You can also read [this Twitter thread.](https://twitter.com/statsepi/status/1385126000149807105)
 - A wealth of [resources.](https://github.com/ecoinfAEET/Reproducibilidad/blob/master/Recursos.md)
 - Keep track of all the parentheses in your code by colouring each pair of brackets in a different color: Tools > Global options > Code > Display > Use rainbow parentheses
+- A comparison across [repositories](https://ddd.uab.cat/record/150829) (Dryad vs Zenodo vs Figshare vs others).
