@@ -11,8 +11,9 @@
 
 
 ## Ecological niche models (ENMs) - Species distribution models (SDMs)
-- [Sillero et al. (2023) A curated list of R packages for ecological niche modelling.](https://doi.org/10.1016/j.ecolmodel.2022.110242)
 
+- [Sillero et al. (2023) A curated list of R packages for ecological niche modelling.](https://doi.org/10.1016/j.ecolmodel.2022.110242)
+- [Peterson et al. (2022) ENM2020: A free online course and set of resources on modeling species niches and distributions.](https://doi.org/10.17161/bi.v17i.15016)
 
 ## Causality
 
