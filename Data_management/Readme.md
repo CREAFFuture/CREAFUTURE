@@ -1,4 +1,4 @@
-# Resources to organize your scripts, improve your workflow, et
+# Resources to organize your scripts, improve your workflow, etc
 ---
 
 - [A beginner's guide](https://education.rstudio.com/learn/beginner/) to R, R Studio, and the tidyverse.
