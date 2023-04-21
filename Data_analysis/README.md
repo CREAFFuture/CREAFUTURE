@@ -1,5 +1,9 @@
 # Analysis of data
----
+--- 
+
+## Linear models (LMs)
+
+- [Common statistical tests (t-test, chi-square test) are linear models](https://lindeloev.github.io/tests-as-linear/#9_teaching_materials_and_a_course_outline), which is relevant when it comes to teaching statistics.
 
 ## Generalized linear mixed models (GLMMs)
 
