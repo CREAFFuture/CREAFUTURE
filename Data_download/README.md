@@ -13,7 +13,7 @@
 - [National Ecological Observatory Network (NEON)](https://data.neonscience.org/data-products/explore) is a network of field sites across the USA that regularly collect ecological data. Find a light introduction to its use [here.](https://www.rforecology.com/post/top-five-ish-sources-of-ecological-data/)
 
 
-## Repositories for spcies occurrence
+## Repositories for species occurrence
 
 - [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/)
 - [Ocean Biodiversity Information System (OBIS)](https://obis.org/): like GBIF for marine species. Find a light introduction to its use [here.](https://www.rforecology.com/post/top-five-ish-sources-of-ecological-data/)
