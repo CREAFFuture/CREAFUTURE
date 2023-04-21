@@ -25,3 +25,11 @@
 ## Community ecology
 
 - David Zelený's [webpage](https://www.davidzeleny.net/anadat-r/doku.php/en:start) contains theory, and R functions and examples on ordination analysis, numerical classification, community-weighted-mean, fourth corner methods & RLQ, and diversity analysis.
+
+
+## Fast code
+
+- Measure [**how much time**](https://www.alexejgossmann.com/benchmarking_r/) it takes for a chunk of code to run, tictoc and microbenchmark are good options.
+- [Multiple ways to optimize running time](https://www.r-bloggers.com/2016/01/strategies-to-speedup-r-code/).
+- Some functions run models in a fast way, particularly useful when dealing with large datasets: glmmTMB::glmmTMB() (generalized linear mixed models with Template Model Builder), mgcv::bam() (big additive models).
+- Some processes can be **parallelized**. [For instance,](https://stackoverflow.com/questions/74222940/parallelize-both-model-fitting-and-dredging-glmmtmb-dredge) glmmTMB::glmmTMB() (a fast way to fit GLM(M)s) and MuMIn::dredge() (fit all combinations of explanatory variables, can be combined with multimodel inference).
