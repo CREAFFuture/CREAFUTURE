@@ -8,6 +8,7 @@
 ## Generalized additive models (GAMs)
 
 - GAMMs: using [random effects](https://fromthebottomoftheheap.net/2021/02/02/random-effects-in-gams/) in GAMs
+- [Interactive course](https://noamross.github.io/gams-in-r-course/) on GAMs by Noam Ross
 
 
 ## Ecological niche models (ENMs) - Species distribution models (SDMs)
