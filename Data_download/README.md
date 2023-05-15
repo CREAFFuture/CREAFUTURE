@@ -25,3 +25,9 @@ Indeed, some webpages aggregate or provide convenient lists of pre-existing repo
 
 - [DataONE](https://www.dataone.org/) aggregates data sets from several repositories and organizations (including the already mentioned KNB, EDI and NEON). At the time of writing (24th March 2023) it stores [over 840,000 datasets, with uneven geographical coverage.]((https://search.dataone.org/data))
 - [Central Michigan University Library](https://www.cmich.edu/research/cmu-library) hosts a great list of resources, including [ecological](https://libguides.cmich.edu/lifesciencedata/ecological), [organismal](https://libguides.cmich.edu/lifesciencedata/organismal) and [environmental](https://libguides.cmich.edu/lifesciencedata/environmental) data.
+
+
+## Web-scrapping: getting data from the Internet
+
+- [Code to get data](https://gist.github.com/MarinaGolivets/c02b833329d43d6ab34ad33d6fd709f5) from the [LEDA trait database](https://uol.de/en/landeco/research/leda).
+- Two amusing examples (not ecology-related): [webscrapping Pokémon statistics and pictures](https://is-r.tumblr.com/post/46821313005/to-plot-them-is-my-real-test), and [webscrapping ratings for The Simpsons over time](https://datacritics.com/2018/08/15/build-a-ggplot-the-fall-of-the-simpsons/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com).
