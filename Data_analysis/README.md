@@ -5,6 +5,10 @@
 
 - [Common statistical tests (t-test, chi-square test) are linear models](https://lindeloev.github.io/tests-as-linear/#9_teaching_materials_and_a_course_outline), which is relevant when it comes to teaching statistics.
 
+## Linear mixed models (LMMs)
+
+- An interesting visualization of how [mixed models pool information and the effect of shrinkage.](https://www.tjmahr.com/plotting-partial-pooling-in-mixed-effects-models/)
+
 ## Generalized linear mixed models (GLMMs)
 
 - [Frequently asked questions](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html) on Generalized Linear Mixed Models (GLMM).
