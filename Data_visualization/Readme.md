@@ -1,6 +1,10 @@
 # Data visualization
 ---
 
+## Repository of visualization resources
+
+- [A collection of links](https://cedricscherer.netlify.app/top/links/) on data visualization in general and ggplot2
+
 ## Make graphs in R
 
 - **Find which graph is best suited to tell you story** checking the [R graph gallery](https://r-graph-gallery.com/index.html), a comprehensive gallery of different types of graphs and charts.
