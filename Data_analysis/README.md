@@ -35,6 +35,10 @@
 - David Zelený's [webpage](https://www.davidzeleny.net/anadat-r/doku.php/en:start) contains theory, and R functions and examples on ordination analysis, numerical classification, community-weighted-mean, fourth corner methods & RLQ, and diversity analysis.
 
 
+## Spatial - GIS (Geograhpical Information System)
+
+- [Overview](https://geocompx.org/post/2023/rgdal-retirement/#fn3) of how the R ecosystem for performing GIS operations has changed, including equivalencies among packages. Note that some packages are scheduled to "retired" in October 2023, and learning to use the modern alternatives is important.
+
 ## Fast code
 
 - Measure [**how much time**](https://www.alexejgossmann.com/benchmarking_r/) it takes for a chunk of code to run, tictoc and microbenchmark are good options.
