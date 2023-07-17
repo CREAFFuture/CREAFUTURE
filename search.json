@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "README.html",
+    "href": "README.html",
+    "title": "CREAFuture",
+    "section": "",
+    "text": "Are you making the PhD at the CREAF and you would say any of the following statemets?\n\nI told my supervisors that I knew how to code but I have no idea.\n\nStatistics? But my PhD is in ecology!\n\nWelcome to CREAFuture Github: the webpage where you can acknowledge without fear (supervisors) your coding and statistic problems.\n\n\n\nphoto 7665\n\n\n\n\n\n\nTo share basic coding and statistics information\nTo ask for help\n\n\n\n\n\n\nStart an issue!\nFeel free to ask in any language you want, think of it as your question.\nFollow tehse six steps and start to ask:\n\nGo to the issue section\nStart a new issue\nWrite a title for the issue\nExplain your issue, if you want to format your comment you can use the following guide: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax\nAdd a label to the issue, for example, help wanted if you need help\nSubmit the comment\n\n\n\n\nimage\n\n\n\n\n\nYou are lucky because we have a lot of very useful ones here The main CREAFuture repository is divided into five sections:\n\nTheory resources: Here you will find references, books of different ecology fields\nData management: Here you will find resources to start coding and to manage your data.\nData collection: Here you will find resources to obtein and to collect data from the web.\nData visualization: Here you will find resources to visualizate your data.\nData analysis - Statistics: Here you will find resources to visualizate your data.\n\nAll the sections have documents like this one explaining in detail the information they contain."
+  },
+  {
+    "objectID": "README.html#what-it-is-used-for",
+    "href": "README.html#what-it-is-used-for",
+    "title": "CREAFuture",
+    "section": "",
+    "text": "To share basic coding and statistics information\nTo ask for help"
+  },
+  {
+    "objectID": "README.html#how-its-worked-now",
+    "href": "README.html#how-its-worked-now",
+    "title": "CREAFuture",
+    "section": "",
+    "text": "Start an issue!\nFeel free to ask in any language you want, think of it as your question.\nFollow tehse six steps and start to ask:\n\nGo to the issue section\nStart a new issue\nWrite a title for the issue\nExplain your issue, if you want to format your comment you can use the following guide: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax\nAdd a label to the issue, for example, help wanted if you need help\nSubmit the comment\n\n\n\n\nimage\n\n\n\n\n\nYou are lucky because we have a lot of very useful ones here The main CREAFuture repository is divided into five sections:\n\nTheory resources: Here you will find references, books of different ecology fields\nData management: Here you will find resources to start coding and to manage your data.\nData collection: Here you will find resources to obtein and to collect data from the web.\nData visualization: Here you will find resources to visualizate your data.\nData analysis - Statistics: Here you will find resources to visualizate your data.\n\nAll the sections have documents like this one explaining in detail the information they contain."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html",
+    "href": "Data_analysis/data_analysis.html",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "Common statistical tests (t-test, chi-square test) are linear models, which is relevant when it comes to teaching statistics.\n\n\n\n\n\nAn interesting visualization of how mixed models pool information and the effect of shrinkage.\n\n\n\n\n\nFrequently asked questions on Generalized Linear Mixed Models (GLMM).\n\n\n\n\n\nGAMMs: using random effects in GAMs\nInteractive course on GAMs by Noam Ross\n\n\n\n\n\nSillero et al. (2023) A curated list of R packages for ecological niche modelling.\nPeterson et al. (2022) ENM2020: A free online course and set of resources on modeling species niches and distributions.\n\n\n\n\n\nSimpson’s paradox: a trend revealed by a dataset can reverse when the dataset is split into groups. It is related to the ecological fallacy: a mistaken deductive reasoning, in which we try to draw conclusions about individuals based on data collected at the group level. Some claim that the paradox does not exist.\nLecture: The foundations of causal inference.\nLecture: Science before statistics: causal inference.\n\n\n\n\n\nDavid Zelený’s webpage contains theory, and R functions and examples on ordination analysis, numerical classification, community-weighted-mean, fourth corner methods & RLQ, and diversity analysis.\n\n\n\n\n\nOverview of how the R ecosystem for performing GIS operations has changed, including equivalencies among packages. Note that some packages are scheduled to “retired” in October 2023, and learning to use the modern alternatives is important.\n\n\n\n\n\nMeasure how much time it takes for a chunk of code to run, tictoc and microbenchmark are good options.\nMultiple ways to optimize running time.\nSome functions run models in a fast way, particularly useful when dealing with large datasets: glmmTMB::glmmTMB() (generalized linear mixed models with Template Model Builder), mgcv::bam() (big additive models).\nSome processes can be parallelized. For instance, glmmTMB::glmmTMB() (a fast way to fit GLM(M)s) and MuMIn::dredge() (fit all combinations of explanatory variables, can be combined with multimodel inference)."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#linear-models-lms",
+    "href": "Data_analysis/data_analysis.html#linear-models-lms",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "Common statistical tests (t-test, chi-square test) are linear models, which is relevant when it comes to teaching statistics."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#linear-mixed-models-lmms",
+    "href": "Data_analysis/data_analysis.html#linear-mixed-models-lmms",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "An interesting visualization of how mixed models pool information and the effect of shrinkage."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#generalized-linear-mixed-models-glmms",
+    "href": "Data_analysis/data_analysis.html#generalized-linear-mixed-models-glmms",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "Frequently asked questions on Generalized Linear Mixed Models (GLMM)."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#generalized-additive-models-gams",
+    "href": "Data_analysis/data_analysis.html#generalized-additive-models-gams",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "GAMMs: using random effects in GAMs\nInteractive course on GAMs by Noam Ross"
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#ecological-niche-models-enms---species-distribution-models-sdms",
+    "href": "Data_analysis/data_analysis.html#ecological-niche-models-enms---species-distribution-models-sdms",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "Sillero et al. (2023) A curated list of R packages for ecological niche modelling.\nPeterson et al. (2022) ENM2020: A free online course and set of resources on modeling species niches and distributions."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#causality",
+    "href": "Data_analysis/data_analysis.html#causality",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "Simpson’s paradox: a trend revealed by a dataset can reverse when the dataset is split into groups. It is related to the ecological fallacy: a mistaken deductive reasoning, in which we try to draw conclusions about individuals based on data collected at the group level. Some claim that the paradox does not exist.\nLecture: The foundations of causal inference.\nLecture: Science before statistics: causal inference."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#community-ecology",
+    "href": "Data_analysis/data_analysis.html#community-ecology",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "David Zelený’s webpage contains theory, and R functions and examples on ordination analysis, numerical classification, community-weighted-mean, fourth corner methods & RLQ, and diversity analysis."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#spatial---gis-geograhpical-information-system",
+    "href": "Data_analysis/data_analysis.html#spatial---gis-geograhpical-information-system",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "Overview of how the R ecosystem for performing GIS operations has changed, including equivalencies among packages. Note that some packages are scheduled to “retired” in October 2023, and learning to use the modern alternatives is important."
+  },
+  {
+    "objectID": "Data_analysis/data_analysis.html#fast-code",
+    "href": "Data_analysis/data_analysis.html#fast-code",
+    "title": "Analysis of data",
+    "section": "",
+    "text": "Measure how much time it takes for a chunk of code to run, tictoc and microbenchmark are good options.\nMultiple ways to optimize running time.\nSome functions run models in a fast way, particularly useful when dealing with large datasets: glmmTMB::glmmTMB() (generalized linear mixed models with Template Model Builder), mgcv::bam() (big additive models).\nSome processes can be parallelized. For instance, glmmTMB::glmmTMB() (a fast way to fit GLM(M)s) and MuMIn::dredge() (fit all combinations of explanatory variables, can be combined with multimodel inference)."
+  },
+  {
+    "objectID": "Data_download/data_download.html",
+    "href": "Data_download/data_download.html",
+    "title": "Resources to get data sets",
+    "section": "",
+    "text": "R comes with some standard data sets, check “data()” or the datasets package. It is common for R packages to contain data sets that demonstrate functions.\n\n\n\n\n\nKnowledge Network for Biodiversity (KNB) is an international repository of ecological data sets. At the time of writing (24th March 2023) it stores over 28,000 datasets., with uneven geographical coverage. Find a light introduction to its use here.\nEnvironmental Data Initiative (EDI) archives a lot of environmental data that comes from publicly-funded research, in particular, Long-Term Ecological research (LTER) in the USA. Find a light introduction to its use here.\nNational Ecological Observatory Network (NEON) is a network of field sites across the USA that regularly collect ecological data. Find a light introduction to its use here.\n\n\n\n\n\nGlobal Biodiversity Information Facility (GBIF)\nOcean Biodiversity Information System (OBIS): like GBIF for marine species. Find a light introduction to its use here.\n\n\n\n\nIndeed, some webpages aggregate or provide convenient lists of pre-existing repositories,\n\nDataONE aggregates data sets from several repositories and organizations (including the already mentioned KNB, EDI and NEON). At the time of writing (24th March 2023) it stores over 840,000 datasets, with uneven geographical coverage.\nCentral Michigan University Library hosts a great list of resources, including ecological, organismal and environmental data.\n\n\n\n\n\nCode to get data from the LEDA trait database.\nTwo amusing examples (not ecology-related): webscrapping Pokémon statistics and pictures, and webscrapping ratings for The Simpsons over time."
+  },
+  {
+    "objectID": "Data_download/data_download.html#generalist-datasets",
+    "href": "Data_download/data_download.html#generalist-datasets",
+    "title": "Resources to get data sets",
+    "section": "",
+    "text": "R comes with some standard data sets, check “data()” or the datasets package. It is common for R packages to contain data sets that demonstrate functions."
+  },
+  {
+    "objectID": "Data_download/data_download.html#repositories-of-ecological-datasets",
+    "href": "Data_download/data_download.html#repositories-of-ecological-datasets",
+    "title": "Resources to get data sets",
+    "section": "",
+    "text": "Knowledge Network for Biodiversity (KNB) is an international repository of ecological data sets. At the time of writing (24th March 2023) it stores over 28,000 datasets., with uneven geographical coverage. Find a light introduction to its use here.\nEnvironmental Data Initiative (EDI) archives a lot of environmental data that comes from publicly-funded research, in particular, Long-Term Ecological research (LTER) in the USA. Find a light introduction to its use here.\nNational Ecological Observatory Network (NEON) is a network of field sites across the USA that regularly collect ecological data. Find a light introduction to its use here."
+  },
+  {
+    "objectID": "Data_download/data_download.html#repositories-for-species-occurrence",
+    "href": "Data_download/data_download.html#repositories-for-species-occurrence",
+    "title": "Resources to get data sets",
+    "section": "",
+    "text": "Global Biodiversity Information Facility (GBIF)\nOcean Biodiversity Information System (OBIS): like GBIF for marine species. Find a light introduction to its use here."
+  },
+  {
+    "objectID": "Data_download/data_download.html#repositories-of-repositories",
+    "href": "Data_download/data_download.html#repositories-of-repositories",
+    "title": "Resources to get data sets",
+    "section": "",
+    "text": "Indeed, some webpages aggregate or provide convenient lists of pre-existing repositories,\n\nDataONE aggregates data sets from several repositories and organizations (including the already mentioned KNB, EDI and NEON). At the time of writing (24th March 2023) it stores over 840,000 datasets, with uneven geographical coverage.\nCentral Michigan University Library hosts a great list of resources, including ecological, organismal and environmental data."
+  },
+  {
+    "objectID": "Data_download/data_download.html#web-scrapping-getting-data-from-the-internet",
+    "href": "Data_download/data_download.html#web-scrapping-getting-data-from-the-internet",
+    "title": "Resources to get data sets",
+    "section": "",
+    "text": "Code to get data from the LEDA trait database.\nTwo amusing examples (not ecology-related): webscrapping Pokémon statistics and pictures, and webscrapping ratings for The Simpsons over time."
+  },
+  {
+    "objectID": "Data_management/data_management.html",
+    "href": "Data_management/data_management.html",
+    "title": "Resources to organize your scripts, improve your workflow, etc",
+    "section": "",
+    "text": "Resources to organize your scripts, improve your workflow, etc\n\n\nA beginner’s guide to R, R Studio, and the tidyverse.\nPrimers on data visualization, iteration, writing functions, reproducibility, etc.\nRecommendations on style, appropaite naming of objects, etc. You can try the styler package to implement a consistent style.\nDon’t repeat yourself (DRY). Write functions instead of copy-pasting code.\nRodríguez-Sánchez, F. 2020. Quince consejos para mejorar nuestro código y flujo de trabajo con R. Ecosistemas 29(3): 2129.\nYou can also read this Twitter thread.\nA wealth of resources.\nKeep track of all the parentheses in your code by colouring each pair of brackets in a different color: Tools &gt; Global options &gt; Code &gt; Display &gt; Use rainbow parentheses\nA comparison across repositories (Dryad vs Zenodo vs Figshare vs others).\nSome recommendations on how to name your files, specially relevant for manuscripts.\nTabular data may be in long or wide format, the switch between the two is called “pivotting”, of which you can change a nice animation here."
+  },
+  {
+    "objectID": "Data_visualization/data_visualization.html",
+    "href": "Data_visualization/data_visualization.html",
+    "title": "Data visualization",
+    "section": "",
+    "text": "A collection of links on data visualization in general and ggplot2\n\n\n\n\n\nFind which graph is best suited to tell you story checking the R graph gallery, a comprehensive gallery of different types of graphs and charts.\nR Graphics cookbook offers more than 150 recipes to create many types of graphs.\nBoxplots can be improved by showing the distribution of data, for instance by plotting jittered and transparent points, or by combining them with violin plots. If you overlay the points on the boxplot, remember to set “outlier.shape = NA”, otherwise you will plot outlying plots twice!\nThe classic correlation matrix plots pairwise correlation among continuous variables. A handy extension including continuous and categorical variables can be implemented with the ggpairs() function from the GGally package.\nQuick and easy ways to deal with long labels.: rotat the labels, rotate the axes, use scales::label_wrap()…\n\n\n\n\n\nPhlyopic is an open database of free silhouetes of plants, animals and other life forms. Convenient to create phylogenetic trees, etc.\nTo choose color palettes, try the Color Brewer webpage, which allows to compare multiple types of color palettes (diverging values, qualitative, etc), taking into account colour-blindness! Coolors allows to browse palettes, check the contrast between coloured background and coloured text, create a palette from a picture, etc\n\n\n\n\n\nData visualization can also be done in Python, for instance with the seaborn library, examples here."
+  },
+  {
+    "objectID": "Data_visualization/data_visualization.html#repository-of-visualization-resources",
+    "href": "Data_visualization/data_visualization.html#repository-of-visualization-resources",
+    "title": "Data visualization",
+    "section": "",
+    "text": "A collection of links on data visualization in general and ggplot2"
+  },
+  {
+    "objectID": "Data_visualization/data_visualization.html#make-graphs-in-r",
+    "href": "Data_visualization/data_visualization.html#make-graphs-in-r",
+    "title": "Data visualization",
+    "section": "",
+    "text": "Find which graph is best suited to tell you story checking the R graph gallery, a comprehensive gallery of different types of graphs and charts.\nR Graphics cookbook offers more than 150 recipes to create many types of graphs.\nBoxplots can be improved by showing the distribution of data, for instance by plotting jittered and transparent points, or by combining them with violin plots. If you overlay the points on the boxplot, remember to set “outlier.shape = NA”, otherwise you will plot outlying plots twice!\nThe classic correlation matrix plots pairwise correlation among continuous variables. A handy extension including continuous and categorical variables can be implemented with the ggpairs() function from the GGally package.\nQuick and easy ways to deal with long labels.: rotat the labels, rotate the axes, use scales::label_wrap()…"
+  },
+  {
+    "objectID": "Data_visualization/data_visualization.html#find-images-and-colour-palettes",
+    "href": "Data_visualization/data_visualization.html#find-images-and-colour-palettes",
+    "title": "Data visualization",
+    "section": "",
+    "text": "Phlyopic is an open database of free silhouetes of plants, animals and other life forms. Convenient to create phylogenetic trees, etc.\nTo choose color palettes, try the Color Brewer webpage, which allows to compare multiple types of color palettes (diverging values, qualitative, etc), taking into account colour-blindness! Coolors allows to browse palettes, check the contrast between coloured background and coloured text, create a palette from a picture, etc"
+  },
+  {
+    "objectID": "Data_visualization/data_visualization.html#make-graphs-in-python",
+    "href": "Data_visualization/data_visualization.html#make-graphs-in-python",
+    "title": "Data visualization",
+    "section": "",
+    "text": "Data visualization can also be done in Python, for instance with the seaborn library, examples here."
+  },
+  {
+    "objectID": "Scientific writing/scientific_writing.html",
+    "href": "Scientific writing/scientific_writing.html",
+    "title": "Resources on scientific writing",
+    "section": "",
+    "text": "Resources on scientific writing\n\nA syllabus on scientific writing. Including re-arranging old papers following the current IMRaD standard.\nA thesaurus is a synonym dictionary, it can be helpful… well, to find synonyms :) If you know what you want to say, but the words you use don’t satisfy you, consult a Thesaurus to check possible synonyms: Merriam-Webster, WordReference.\nPractical recommendations on how to write a paper.\nCmapTools is a free software to produce conceptual maps, which can be useful ways to organize information."
+  }
+]
