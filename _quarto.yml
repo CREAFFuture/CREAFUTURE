@@ -1,0 +1,27 @@
+project:
+  type: website
+  render:
+    - README.md
+    - "*.md"
+
+website:
+  title: "CREAFuture"
+  repo-url: https://github.com/CREAFFuture/CREAFUTURE
+  repo-actions: [edit, issue]
+  sidebar:
+    style: "docked"
+    contents:
+      - href: README.md
+        text: Home
+      - auto: "*/*.md"
+    tools:
+      - icon: github
+        href: https://github.com/CREAFFuture/CREAFUTURE
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
