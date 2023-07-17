@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "README.html",
-    "href": "README.html",
-    "title": "CREAFuture",
+    "objectID": "Scientific writing/scientific_writing.html",
+    "href": "Scientific writing/scientific_writing.html",
+    "title": "Resources on scientific writing",
     "section": "",
-    "text": "Are you making the PhD at the CREAF and you would say any of the following statemets?\n\nI told my supervisors that I knew how to code but I have no idea.\n\nStatistics? But my PhD is in ecology!\n\nWelcome to CREAFuture Github: the webpage where you can acknowledge without fear (supervisors) your coding and statistic problems.\n\n\n\nphoto 7665\n\n\n\n\n\n\nTo share basic coding and statistics information\nTo ask for help\n\n\n\n\n\n\nStart an issue!\nFeel free to ask in any language you want, think of it as your question.\nFollow tehse six steps and start to ask:\n\nGo to the issue section\nStart a new issue\nWrite a title for the issue\nExplain your issue, if you want to format your comment you can use the following guide: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax\nAdd a label to the issue, for example, help wanted if you need help\nSubmit the comment\n\n\n\n\nimage\n\n\n\n\n\nYou are lucky because we have a lot of very useful ones here The main CREAFuture repository is divided into five sections:\n\nTheory resources: Here you will find references, books of different ecology fields\nData management: Here you will find resources to start coding and to manage your data.\nData collection: Here you will find resources to obtein and to collect data from the web.\nData visualization: Here you will find resources to visualizate your data.\nData analysis - Statistics: Here you will find resources to visualizate your data.\n\nAll the sections have documents like this one explaining in detail the information they contain."
+    "text": "Resources on scientific writing\n\nA syllabus on scientific writing. Including re-arranging old papers following the current IMRaD standard.\nA thesaurus is a synonym dictionary, it can be helpful… well, to find synonyms :) If you know what you want to say, but the words you use don’t satisfy you, consult a Thesaurus to check possible synonyms: Merriam-Webster, WordReference.\nPractical recommendations on how to write a paper.\nCmapTools is a free software to produce conceptual maps, which can be useful ways to organize information."
   },
   {
-    "objectID": "README.html#what-it-is-used-for",
-    "href": "README.html#what-it-is-used-for",
-    "title": "CREAFuture",
+    "objectID": "Data_management/data_management.html",
+    "href": "Data_management/data_management.html",
+    "title": "Resources to organize your scripts, improve your workflow, etc",
     "section": "",
-    "text": "To share basic coding and statistics information\nTo ask for help"
-  },
-  {
-    "objectID": "README.html#how-its-worked-now",
-    "href": "README.html#how-its-worked-now",
-    "title": "CREAFuture",
-    "section": "",
-    "text": "Start an issue!\nFeel free to ask in any language you want, think of it as your question.\nFollow tehse six steps and start to ask:\n\nGo to the issue section\nStart a new issue\nWrite a title for the issue\nExplain your issue, if you want to format your comment you can use the following guide: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax\nAdd a label to the issue, for example, help wanted if you need help\nSubmit the comment\n\n\n\n\nimage\n\n\n\n\n\nYou are lucky because we have a lot of very useful ones here The main CREAFuture repository is divided into five sections:\n\nTheory resources: Here you will find references, books of different ecology fields\nData management: Here you will find resources to start coding and to manage your data.\nData collection: Here you will find resources to obtein and to collect data from the web.\nData visualization: Here you will find resources to visualizate your data.\nData analysis - Statistics: Here you will find resources to visualizate your data.\n\nAll the sections have documents like this one explaining in detail the information they contain."
+    "text": "Resources to organize your scripts, improve your workflow, etc\n\n\nA beginner’s guide to R, R Studio, and the tidyverse.\nPrimers on data visualization, iteration, writing functions, reproducibility, etc.\nRecommendations on style, appropaite naming of objects, etc. You can try the styler package to implement a consistent style.\nDon’t repeat yourself (DRY). Write functions instead of copy-pasting code.\nRodríguez-Sánchez, F. 2020. Quince consejos para mejorar nuestro código y flujo de trabajo con R. Ecosistemas 29(3): 2129.\nYou can also read this Twitter thread.\nA wealth of resources.\nKeep track of all the parentheses in your code by colouring each pair of brackets in a different color: Tools &gt; Global options &gt; Code &gt; Display &gt; Use rainbow parentheses\nA comparison across repositories (Dryad vs Zenodo vs Figshare vs others).\nSome recommendations on how to name your files, specially relevant for manuscripts.\nTabular data may be in long or wide format, the switch between the two is called “pivotting”, of which you can change a nice animation here."
   },
   {
     "objectID": "Data_analysis/data_analysis.html",
@@ -91,6 +84,27 @@
     "text": "Measure how much time it takes for a chunk of code to run, tictoc and microbenchmark are good options.\nMultiple ways to optimize running time.\nSome functions run models in a fast way, particularly useful when dealing with large datasets: glmmTMB::glmmTMB() (generalized linear mixed models with Template Model Builder), mgcv::bam() (big additive models).\nSome processes can be parallelized. For instance, glmmTMB::glmmTMB() (a fast way to fit GLM(M)s) and MuMIn::dredge() (fit all combinations of explanatory variables, can be combined with multimodel inference)."
   },
   {
+    "objectID": "README.html",
+    "href": "README.html",
+    "title": "CREAFuture",
+    "section": "",
+    "text": "Are you making the PhD at the CREAF and you would say any of the following statemets?\n\nI told my supervisors that I knew how to code but I have no idea.\n\nStatistics? But my PhD is in ecology!\n\nWelcome to CREAFuture Github: the webpage where you can acknowledge without fear (supervisors) your coding and statistic problems.\n\n\n\nphoto 7665\n\n\n\n\n\n\nTo share basic coding and statistics information\nTo ask for help\n\n\n\n\n\n\nStart an issue!\nFeel free to ask in any language you want, think of it as your question.\nFollow tehse six steps and start to ask:\n\nGo to the issue section\nStart a new issue\nWrite a title for the issue\nExplain your issue, if you want to format your comment you can use the following guide: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax\nAdd a label to the issue, for example, help wanted if you need help\nSubmit the comment\n\n\n\n\nimage\n\n\n\n\n\nYou are lucky because we have a lot of very useful ones here The main CREAFuture repository is divided into five sections:\n\nTheory resources: Here you will find references, books of different ecology fields\nData management: Here you will find resources to start coding and to manage your data.\nData collection: Here you will find resources to obtein and to collect data from the web.\nData visualization: Here you will find resources to visualizate your data.\nData analysis - Statistics: Here you will find resources to visualizate your data.\n\nAll the sections have documents like this one explaining in detail the information they contain."
+  },
+  {
+    "objectID": "README.html#what-it-is-used-for",
+    "href": "README.html#what-it-is-used-for",
+    "title": "CREAFuture",
+    "section": "",
+    "text": "To share basic coding and statistics information\nTo ask for help"
+  },
+  {
+    "objectID": "README.html#how-its-worked-now",
+    "href": "README.html#how-its-worked-now",
+    "title": "CREAFuture",
+    "section": "",
+    "text": "Start an issue!\nFeel free to ask in any language you want, think of it as your question.\nFollow tehse six steps and start to ask:\n\nGo to the issue section\nStart a new issue\nWrite a title for the issue\nExplain your issue, if you want to format your comment you can use the following guide: https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax\nAdd a label to the issue, for example, help wanted if you need help\nSubmit the comment\n\n\n\n\nimage\n\n\n\n\n\nYou are lucky because we have a lot of very useful ones here The main CREAFuture repository is divided into five sections:\n\nTheory resources: Here you will find references, books of different ecology fields\nData management: Here you will find resources to start coding and to manage your data.\nData collection: Here you will find resources to obtein and to collect data from the web.\nData visualization: Here you will find resources to visualizate your data.\nData analysis - Statistics: Here you will find resources to visualizate your data.\n\nAll the sections have documents like this one explaining in detail the information they contain."
+  },
+  {
     "objectID": "Data_download/data_download.html",
     "href": "Data_download/data_download.html",
     "title": "Resources to get data sets",
@@ -133,13 +147,6 @@
     "text": "Code to get data from the LEDA trait database.\nTwo amusing examples (not ecology-related): webscrapping Pokémon statistics and pictures, and webscrapping ratings for The Simpsons over time."
   },
   {
-    "objectID": "Data_management/data_management.html",
-    "href": "Data_management/data_management.html",
-    "title": "Resources to organize your scripts, improve your workflow, etc",
-    "section": "",
-    "text": "Resources to organize your scripts, improve your workflow, etc\n\n\nA beginner’s guide to R, R Studio, and the tidyverse.\nPrimers on data visualization, iteration, writing functions, reproducibility, etc.\nRecommendations on style, appropaite naming of objects, etc. You can try the styler package to implement a consistent style.\nDon’t repeat yourself (DRY). Write functions instead of copy-pasting code.\nRodríguez-Sánchez, F. 2020. Quince consejos para mejorar nuestro código y flujo de trabajo con R. Ecosistemas 29(3): 2129.\nYou can also read this Twitter thread.\nA wealth of resources.\nKeep track of all the parentheses in your code by colouring each pair of brackets in a different color: Tools &gt; Global options &gt; Code &gt; Display &gt; Use rainbow parentheses\nA comparison across repositories (Dryad vs Zenodo vs Figshare vs others).\nSome recommendations on how to name your files, specially relevant for manuscripts.\nTabular data may be in long or wide format, the switch between the two is called “pivotting”, of which you can change a nice animation here."
-  },
-  {
     "objectID": "Data_visualization/data_visualization.html",
     "href": "Data_visualization/data_visualization.html",
     "title": "Data visualization",
@@ -173,12 +180,5 @@
     "title": "Data visualization",
     "section": "",
     "text": "Data visualization can also be done in Python, for instance with the seaborn library, examples here."
-  },
-  {
-    "objectID": "Scientific writing/scientific_writing.html",
-    "href": "Scientific writing/scientific_writing.html",
-    "title": "Resources on scientific writing",
-    "section": "",
-    "text": "Resources on scientific writing\n\nA syllabus on scientific writing. Including re-arranging old papers following the current IMRaD standard.\nA thesaurus is a synonym dictionary, it can be helpful… well, to find synonyms :) If you know what you want to say, but the words you use don’t satisfy you, consult a Thesaurus to check possible synonyms: Merriam-Webster, WordReference.\nPractical recommendations on how to write a paper.\nCmapTools is a free software to produce conceptual maps, which can be useful ways to organize information."
   }
 ]
