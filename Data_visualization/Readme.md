@@ -8,6 +8,7 @@
 ## Make graphs in R
 
 - **Find which graph is best suited to tell you story** checking the [R graph gallery](https://r-graph-gallery.com/index.html), a comprehensive gallery of different types of graphs and charts.
+- Avoid common mistakes in data visuaization:[Friends don't let friends make bad graphs](https://github.com/cxli233/FriendsDontLetFriends).
 - [R Graphics cookbook](https://r-graphics.org/) offers more than 150 recipes to create many types of graphs.
 - **Boxplots** can be [improved](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/#charts) by showing the distribution of data, for instance by plotting jittered and transparent points, or by combining them with violin plots. If you overlay the points on the boxplot, remember to set ["outlier.shape = NA"](https://ggplot2.tidyverse.org/reference/geom_boxplot.html), otherwise you will plot outlying plots twice!
 - The classic [**correlation matrix**](http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software) plots pairwise correlation among continuous variables. A handy extension including continuous and categorical variables can be implemented with the [ggpairs() function from the GGally package.](https://ggobi.github.io/ggally/articles/ggpairs.html)
